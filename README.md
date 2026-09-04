@@ -1,3 +1,3 @@
 # intern
 <br>
-Autor:-Hritik Nayaka
+Author:-Hritik Nayaka
